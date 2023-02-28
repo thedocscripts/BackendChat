@@ -1,0 +1,25 @@
+{
+  "name": "backendchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedocscripts/BackendChat.git"
+  },
+  "author": "Thedoc, Yasser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thedocscripts/BackendChat/issues"
+  },
+  "homepage": "https://github.com/thedocscripts/BackendChat#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.6.1"
+  }
+}
